@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karl!</h1>
-<h3 align="center">Python - ML/AI developer student</h3>
+<h3 align="center">Applied Artificial Intelligence student @ Halmstad University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hogander21&label=Profile%20views&color=0e75b6&style=flat" alt="hogander21" /> </p>
 
