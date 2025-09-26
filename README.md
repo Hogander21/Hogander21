@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hogander21&label=Profile%20views&color=0e75b6&style=flat" alt="hogander21" /> </p>
 
-- 🔭 I’m currently working on [Regression/Classification/Cluster - Framework](Soon on github)
-
-- 🌱 I’m currently learning **Linear Algebra, Calculus and Geopandas**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karlhogander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karlhogander" height="30" width="40" /></a>
